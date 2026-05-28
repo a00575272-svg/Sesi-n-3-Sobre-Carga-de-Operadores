@@ -4,16 +4,22 @@ ejemplo #1
 <img width="1134" height="233" alt="image" src="https://github.com/user-attachments/assets/816043de-3ca2-4a11-8fdb-e7f35c92e852" />
 ¿Qué clase se define?
 Se define la clase llamada Punto, la cual representa un punto con coordenadas x y y.
+
 ¿Qué operador se sobrecarga?
-Se sobrecarga el operador +. 
+Se sobrecarga el operador +.
+
 ¿Cuántos operandos utiliza?
 Utiliza dos operandos: el objeto actual (p1) y el objeto recibido como parámetro (p2).
+
 ¿Qué tipo de dato devuelve?
 Devuelve un objeto de tipo Punto.
+
 ¿El operador modifica el objeto actual o crea uno nuevo?
 El operador no modifica el objeto actual; crea y devuelve un nuevo objeto con la suma de las coordenadas.
+
 ¿La sobrecarga hace que el código sea más claro?
 Sí, porque permite usar el operador + de manera natural y fácil de entender, como si se trabajara con tipos de datos básicos.
+
 ¿Qué error común ayuda a evitar este ejemplo?
 Ayuda a evitar realizar sumas manuales de atributos (x y y) cada vez que se quieran combinar puntos, reduciendo errores y haciendo el código más ordenado.
 
